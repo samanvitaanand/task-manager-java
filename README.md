@@ -12,11 +12,6 @@ A command-line task management application built using Java and object oriented 
 - Object-Oriented Programming
 - Data Structures (Lists, Maps)
 
-## How to Run
-1. Clone the repository
-2. Compile the Java files
-3. Run the main class from the terminal
-
 ## What I Learned
 - Applying OOP concepts such as classes, encapsulation, and inheritance
 - Using lists and maps to manage application data
